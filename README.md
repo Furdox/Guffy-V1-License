@@ -1,4 +1,4 @@
-# Guffy-V1-License
+# Guffy V1 License
 
 Guffy V1
 Copyright Your Name YEAR
