@@ -3,7 +3,7 @@
 Guffy V1\
 Copyright Your Name YEAR
 
-You can freely modify anything, but you need to credit the respective owner and it has to be for private usage only.\
+You can freely modify anything, but you need to credit the respective owner and it has to be for non-commercial usage only.\
 No distribution allowed.
 
 MAKE SURE TO KEEP THE LICENSE AS IS
