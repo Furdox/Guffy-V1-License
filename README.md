@@ -1,3 +1,6 @@
+# THIS REPO IS NOW ARCHIVED. USE THE CREATIVE COMMONS LICENSES INSTEAD TO DO YOUR LICENSES.
+### go away, this thing's cwinge ;w;
+
 # Guffy V1 License
 
 Guffy V1\
